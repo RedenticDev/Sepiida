@@ -1,0 +1,61 @@
+ENABLED = "Activé";
+RESPRING_INFO = "Un respring n'est requis que pour ce switch 'Activé'.";
+
+RESPRING = "Respring";
+RESPRING_PROMPT = "Voulez-vous vraiment respring votre appareil ?\nCette action est nécessaire seulement si vous avez changé le switch 'Activé'";
+YES_PROMPT = "Oui";
+NO_PROMPT = "Non";
+
+CUSTOMIZATION_SECTION = "Customisation";
+CUSTOMIZATION_LABEL = "Options de customisation";
+CUSTOMIZATION_FOOTER = "Changez le comportement de votre menu Force Touch.";
+
+COLORING_SECTION = "Coloration";
+COLORING_LABEL = "Options de coloration";
+COLORING_FOOTER = "Adaptez le menu Force Touch à vos goûts.";
+
+OTHER_TITLE = "Autre";
+TEST_SETUP = "Tester vos options";
+RESET_PREFS = "Réinitialiser les options";
+RESET_CONFIRMATION = "Voulez-vous vraiment réinitialiser les préférences de Sepiida ? Cette action est irréversible.";
+CONFIRM = "Confirmer";
+CANCEL = "Annuler";
+
+CONTRIBUTORS = "Contributeurs";
+CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribuez aux traductions !";
+
+SUPPORT_TITLE = "Support";
+BUY_ME_A_COFFEE = "☕️ Achetez moi un café";
+FEATURE_REQUEST = "💡 Une idée de fonctionnalité ?";
+MAIL = "Mail";
+FOUND_A_BUG = "🐞 Vous avez trouvé un bug ?";
+SOURCE_CODE = "💻 Code source";
+MORE_SUPPORT = "Plus...";
+
+TWEAK_BY_AUTHOR = "%@ par %@";
+
+/* WelcomePageController.m */
+CONTINUE = "Continuer";
+THX_FOR_USING = "Merci d'utiliser %@ !";
+WHATS_NEW = "Nouveautés de la version %@";
+
+/* Test button */
+TEST_BEGAN = "Début du test";
+TEST_ENDED = "Fin du test";
+
+/* iCleaner disabling detector */
+ICLEANER_MAIN_MESSAGE = "Le tweak semble avoir été désactivé par iCleaner. Que voulez-vous faire ?";
+ICLEANER_REACTIVATE = "Réactiver";
+ICLEANER_REACTIVATE_ERROR = "Impossible de réactiver le tweak. Veuillez le faire manuellement dans iCleaner.\n(Erreur: %@)";
+ICLEANER_REACTIVATE_OPEN = "Ouvrir iCleaner";
+ICLEANER_REACTIVATE_LATER = "Plus tard";
+BACK = "Retour";
+IGNORE = "Ignorer";
+ICLEANER_DISABLED_MESSAGE = "Désactivé par iCleaner.";
+
+/* Update view */
+UPDATE_MESSAGE = "Nouvelle version disponible !";
+UPDATE_DETAIL = "Que voulez-vous faire ?\n(v%@ ➜ v%@)";
+/* UPDATE_NOW = "Mettre à jour maintenant"; */
+UPDATE_FROM = "Mettre à jour depuis...";
+UPDATE_LATER = "Plus tard";

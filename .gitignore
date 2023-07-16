@@ -1,0 +1,6 @@
+.theos/
+.dragon/
+.vscode/
+packages/
+.DS_Store
+*.ninja

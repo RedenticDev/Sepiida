@@ -1,0 +1,43 @@
+REMOVE_ITEMS_SECTION = "Items removing";
+REMOVE_BETA_OPTION = "Remove 'Send Beta Feedback' item";
+REMOVE_REARRANGE_OPTION = "Remove 'Edit Home Screen' option";
+REMOVE_SHARE_OPTION = "Remove 'Share App' option";
+REMOVE_DELETE_OPTION = "Remove 'Remove App' option";
+
+CELL_HEIGHT = "Cell Height";
+DEFAULT_CELL_HEIGHT = "Default cell height is 43.5.";
+
+REMOVE_WIDGETS_SECTION = "Widgets removing (iOS 13 only)";
+REMOVE_WIDGETS = "Remove widgets";
+
+REVERSE_ORDER_SECTION = "Reverse order of menu items";
+REVERSE_ORDER = "Reverse order";
+
+REMOVE_SEPS_SECTION = "Separators removing";
+REMOVE_THIN_SEPARATORS = "Remove thin separators";
+REMOVE_BOLD_SEPARATORS = "Remove bold separators";
+
+CORNER_RADIUS_SECTION = "Corner Radius";
+DEFAULT_CORNER_RADIUS = "Default radius for menu is 13, and 0 for items.";
+CORNER_RADIUS_MENU = "Corner Radius for Menu";
+CORNER_RADIUS_ITEMS = "Corner Radius for Items";
+
+ANIMATION_SPEED = "Animation Speed";
+
+STATUS_BAR_SECTION = "Status Bar";
+SHOW_STATUS_BAR = "Show Status Bar";
+
+TEXT_CUSTOMIZATION_SECTION = "Text Customization (for Settings app)";
+CUSTOM_TEXT_PLACEHOLDER = "Custom text...";
+BATTERY_CELL = "Battery title";
+BATTERY_CELL_SUBTITLE = "Battery subtitle";
+BATTERY_CELL_PLACEHOLDERS = "Available placeholders: $original$, $percent$, $health$, $is-charging$, $is-lpm-enabled$, $temperatureC$, $temperatureF$, $cycles$, $capacity$, $max-capacity$, $design-capacity$, $amperage$ and $voltage$";
+CELLULAR_CELL = "Cellular title";
+CELLULAR_CELL_SUBTITLE = "Cellular subtitle";
+CELLULAR_CELL_PLACEHOLDERS = "Available placeholders: $original$, $is-enabled$, $carrier$, $coverage$, $coverage-bars$ and $public-ip$";
+WIFI_CELL = "Wifi title";
+WIFI_CELL_SUBTITLE = "Wifi subtitle";
+WIFI_CELL_PLACEHOLDERS = "Available placeholders: $original$, $is-enabled$, $is-connected$, $network$, $quality$, $private-ip$ and $public-ip$";
+BLUETOOTH_CELL = "Bluetooth title";
+BLUETOOTH_CELL_SUBTITLE = "Bluetooth subtitle";
+BLUETOOTH_CELL_PLACEHOLDERS = "Available placeholders: $original$, $is-enabled$, $is-connected$ and $connected-devices$";

@@ -1,0 +1,12 @@
+/* Please do not localize the '*_ICON' values. */
+1A_ICON = "wrench.fill";
+1B_TITLE = "Features";
+1C_CONTENT = "Customize anything related to the Force Touch menu. From its colors to its content.";
+
+2A_ICON = "rays";
+2B_TITLE = "Preferences";
+2C_CONTENT = "Sepiida features redesigned and comprehensive settings, and are as useful as pleasant to use.";
+
+3A_ICON = "globe";
+3B_TITLE = "Support";
+3C_CONTENT = "A bug? A feature request? Reach me on any network from the main page of the tweak.";

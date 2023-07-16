@@ -1,0 +1,12 @@
+Package: dev.redentic.sepiida
+Name: Sepiida
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make the 3D Touch menu yours.
+Icon: https://redentic.dev/depictions/dev.redentic.sepiida/icon.png
+Depiction: https://redentic.dev/depictions/?p=dev.redentic.sepiida
+SileoDepiction: https://redentic.dev/depictions/dev.redentic.sepiida/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common, ws.hbang.alderis | org.thebigboss.libcolorpicker

@@ -1,0 +1,23 @@
+LIGHT_OR_DARK_MODE = "Modes clair et sombre (iOS 13+)";
+DEFAULT = "Par défaut";
+LIGHT_MODE = "Mode clair";
+DARK_MODE = "Mode sombre";
+
+ITEMS_SECTION = "Éléments";
+DYNAMIC_COLOR = "Dynamique";
+CUSTOM_COLOR = "Personnalisée";
+CUSTOM_ITEMS_COLOR = "Couleur personnalisée des éléments";
+ENABLE_CUSTOM_BLUR = "Activer le flou personnalisé";
+CUSTOM_BLUR_ALPHA = "Opacité du flou personnalisé";
+DEFAULT_ITEMS_ALPHA = "L'opacité par défaut pour les éléments est de 1.0.";
+
+MENU_SECTION = "Menu";
+CUSTOM_MENU_COLOR = "Couleur personnalisée du menu";
+DEFAULT_MENU_ALPHA = "L'opacité par défaut pour le menu est de 0.50.";
+
+BACKGROUND_SECTION = "Arrière-plan";
+CUSTOM_BACKGROUND_COLOR = "Couleur personnalisée de l'arrière-plan";
+DEFAULT_BACKGROUND_ALPHA = "L'opacité par défaut pour l'arrière-plan est de 0.21.";
+
+LABELS_COLOR_SECTION = "Couleur des textes";
+CUSTOM_LABELS_COLOR = "Couleur des textes personnalisée";

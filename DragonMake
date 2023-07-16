@@ -1,0 +1,36 @@
+---
+all:
+  archs:
+    - arm64
+    - arm64e
+  targetvers: 13.3
+
+Tweak:
+  type: tweak
+  files:
+    - *.x
+    - *.m
+    - *.mm
+  cflags: -include ../Prefix.h
+  libs:
+    - colorpicker
+  frameworks:
+    - IOKit
+    - BluetoothManager
+
+Preferences:
+  type: prefs
+  files:
+    - *.m
+    - "**/*.m"
+  cflags: -include ../Prefix.h
+  libs:
+    - colorpicker
+  frameworks:
+    - Preferences
+    - OnBoardingKit
+    - Cephei
+    - CepheiPrefs
+  stage:
+    - mkdir -p .dragon/_/Library/PreferenceLoader/Preferences
+    - cp entry.plist .dragon/_/Library/PreferenceLoader/Preferences/Sepiida.plist

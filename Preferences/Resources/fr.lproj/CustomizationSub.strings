@@ -1,0 +1,43 @@
+REMOVE_ITEMS_SECTION = "Suppression d'éléments";
+REMOVE_BETA_OPTION = "Supprimer 'Commentaire sur la bêta'";
+REMOVE_REARRANGE_OPTION = "Supprimer 'Modifier l'écran d'accueil'";
+REMOVE_SHARE_OPTION = "Supprimer 'Partager l'app'";
+REMOVE_DELETE_OPTION = "Supprimer 'Supprimer l'app'";
+
+CELL_HEIGHT = "Hauteur des éléments";
+DEFAULT_CELL_HEIGHT = "La hauteur par défaut des éléments est de 43.5.";
+
+REMOVE_WIDGETS_SECTION = "Suppression des widgets (iOS 13 uniquement)";
+REMOVE_WIDGETS = "Supprimer les widgets";
+
+REVERSE_ORDER_SECTION = "Inverser l'ordre des éléments du menu";
+REVERSE_ORDER = "Inverser l'ordre";
+
+REMOVE_SEPS_SECTION = "Suppression des séparateurs";
+REMOVE_THIN_SEPARATORS = "Supprimer les séparateurs fins";
+REMOVE_BOLD_SEPARATORS = "Supprimer les séparateurs épais";
+
+CORNER_RADIUS_SECTION = "Arrondi des coins";
+DEFAULT_CORNER_RADIUS = "L'arrondi par défaut est de 13 pour le menu, et de 0 pour les éléments.";
+CORNER_RADIUS_MENU = "Arrondi pour le menu";
+CORNER_RADIUS_ITEMS = "Arrondi pour les éléments";
+
+ANIMATION_SPEED = "Vitesse des animations";
+
+STATUS_BAR_SECTION = "Barre de status";
+SHOW_STATUS_BAR = "Afficher la barre de status";
+
+TEXT_CUSTOMIZATION_SECTION = "Customisation des textes (pour l'app Paramètres)";
+CUSTOM_TEXT_PLACEHOLDER = "Texte personnalisé...";
+BATTERY_CELL = "Texte Batterie";
+BATTERY_CELL_SUBTITLE = "Sous-texte Batterie";
+BATTERY_CELL_PLACEHOLDERS = "Remplacements disponibles : $original$, $percent$, $health$, $is-charging$, $is-lpm-enabled$, $temperatureC$, $temperatureF$, $cycles$, $capacity$, $max-capacity$, $design-capacity$, $amperage$ et $voltage$";
+CELLULAR_CELL = "Texte Cellulaire";
+CELLULAR_CELL_SUBTITLE = "Sous-texte Cellulaire";
+CELLULAR_CELL_PLACEHOLDERS = "Remplacements disponibles : $original$, $is-enabled$, $carrier$, $coverage$, $coverage-bars$ et $public-ip$";
+WIFI_CELL = "Texte Wifi";
+WIFI_CELL_SUBTITLE = "Sous-texte Wifi";
+WIFI_CELL_PLACEHOLDERS = "Remplacements disponibles : $original$, $is-enabled$, $is-connected$, $network$, $quality$, $private-ip$ et $public-ip$";
+BLUETOOTH_CELL = "Texte Bluetooth";
+BLUETOOTH_CELL_SUBTITLE = "Sous-texte Bluetooth";
+BLUETOOTH_CELL_PLACEHOLDERS = "Remplacements disponibles : $original$, $is-enabled$, $is-connected$ et $connected-devices$";

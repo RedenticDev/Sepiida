@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <!-- Changelog -->
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>label</key>
+                <string>CHANGELOG</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSSpinnerCell</string>
+            </dict>
+            
+            <!-- Depiction -->
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>label</key>
+                <string>DEPICTION</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSSpinnerCell</string>
+            </dict>
+            
+            <!-- More contacts -->
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>label</key>
+                <string>MORE_CONTACTS</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBLinkTableCell</string>
+                <key>label</key>
+                <string>GitHub</string>
+                <key>subtitle</key>
+                <string>GITHUB_SUBTITLE</string>
+                <key>url</key>
+                <string>https://github.com/RedenticDev</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBLinkTableCell</string>
+                <key>label</key>
+                <string>Reddit</string>
+                <key>subtitle</key>
+                <string>REDDIT_SUBTITLE</string>
+                <key>url</key>
+                <string>https://www.reddit.com/user/redentic</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBLinkTableCell</string>
+                <key>label</key>
+                <string>Discord (Redentic#0475)</string>
+                <key>subtitle</key>
+                <string>DISCORD_SUBTITLE</string>
+                <key>url</key>
+                <string>https://discord.com/users/692312923661664256/</string>
+            </dict>
+
+            <!-- Other tweaks -->
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>headerCellClass</key>
+                <string>SPDRefreshableHeaderCell</string>
+                <key>label</key>
+                <string>MY_OTHER_TWEAKS</string>
+                <key>actionLabel</key>
+                <string>REFRESH</string>
+                <key>action</key>
+                <string>refreshPackages:</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBPackageTableCell</string>
+                <key>label</key>
+                <string>SBColors</string>
+                <key>id</key>
+                <string>package_1</string>
+                <key>subtitle</key>
+                <string>Easily change your status bar colors!</string>
+                <key>packageIdentifier</key>
+                <string>com.redenticdev.sbcolors</string>
+                <key>packageRepository</key>
+                <string>https://redentic.dev</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBPackageTableCell</string>
+                <key>label</key>
+                <string>FastLPM</string>
+                <key>id</key>
+                <string>package_2</string>
+                <key>subtitle</key>
+                <string>Toggle LPM by tapping the battery icon</string>
+                <key>packageIdentifier</key>
+                <string>com.redenticdev.fastlpm</string>
+                <key>packageRepository</key>
+                <string>https://redentic.dev</string>
+            </dict>
+            <dict>
+                <key>cellClass</key>
+                <string>HBPackageTableCell</string>
+                <key>label</key>
+                <string>AppMore</string>
+                <key>id</key>
+                <string>package_3</string>
+                <key>subtitle</key>
+                <string>Auto-extend app's description in AppStore updates page</string>
+                <key>packageIdentifier</key>
+                <string>com.redenticdev.appmore</string>
+                <key>packageRepository</key>
+                <string>https://redentic.dev</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

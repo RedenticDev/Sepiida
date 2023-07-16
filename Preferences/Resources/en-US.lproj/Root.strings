@@ -1,0 +1,61 @@
+ENABLED = "Enabled";
+RESPRING_INFO = "A respring is required only for this 'Enabled' toggle.";
+
+RESPRING = "Respring";
+RESPRING_PROMPT = "Do you really want to respring your device?\nThis is only required if you have changed the 'Enabled' toggle.";
+YES_PROMPT = "Yes";
+NO_PROMPT = "No";
+
+CUSTOMIZATION_SECTION = "Customization";
+CUSTOMIZATION_LABEL = "Customization settings";
+CUSTOMIZATION_FOOTER = "Change the behavior of your Force Touch menu.";
+
+COLORING_SECTION = "Coloring";
+COLORING_LABEL = "Coloring settings";
+COLORING_FOOTER = "Adapt the Force Touch menu to your liking.";
+
+OTHER_TITLE = "Other";
+TEST_SETUP = "Test your settings";
+RESET_PREFS = "Reset Preferences";
+RESET_CONFIRMATION = "Do you really want to reset Sepiida preferences? This action is irreversible.";
+CONFIRM = "Confirm";
+CANCEL = "Cancel";
+
+CONTRIBUTORS = "Contributors";
+CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribute to translations!";
+
+SUPPORT_TITLE = "Support";
+BUY_ME_A_COFFEE = "☕️ Buy me a coffee";
+FEATURE_REQUEST = "💡 Feature Request?";
+MAIL = "Mail";
+FOUND_A_BUG = "🐞 Found a Bug?";
+SOURCE_CODE = "💻 Source Code";
+MORE_SUPPORT = "More...";
+
+TWEAK_BY_AUTHOR = "%@ by %@";
+
+/* WelcomePageController.m */
+CONTINUE = "Continue";
+THX_FOR_USING = "Thanks for using %@!";
+WHATS_NEW = "What's new in version %@?";
+
+/* Test button */
+TEST_BEGAN = "Test began";
+TEST_ENDED = "Test ended";
+
+/* iCleaner disabling detector */
+ICLEANER_MAIN_MESSAGE = "It seems that the tweak has been disabled with iCleaner. What do you want to do?";
+ICLEANER_REACTIVATE = "Reactivate";
+ICLEANER_REACTIVATE_ERROR = "Unable to reactivate the tweak. Please do it manually in iCleaner.\n(Error: %@)";
+ICLEANER_REACTIVATE_OPEN = "Open iCleaner";
+ICLEANER_REACTIVATE_LATER = "I'll do it later";
+BACK = "Back";
+IGNORE = "Ignore";
+ICLEANER_DISABLED_MESSAGE = "Disabled by iCleaner.";
+
+/* Update view */
+UPDATE_MESSAGE = "New version available!";
+UPDATE_DETAIL = "What do you want to do?\n(v%@ ➜ v%@)";
+/* UPDATE_NOW = "Update now"; */
+UPDATE_FROM = "Update from...";
+UPDATE_LATER = "Later";

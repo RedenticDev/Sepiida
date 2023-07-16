@@ -1,0 +1,14 @@
+CHANGELOG = "Changelog";
+DEPICTION = "Depiction";
+
+PARSING_ERROR = "An error occurred while parsing file";
+NOT_FOUND_ERROR = "File not found or incorrect URL";
+EMPTY_DATA_ERROR = "No data found";
+
+MORE_CONTACTS = "More contacts";
+GITHUB_SUBTITLE = "Check how my tweaks are made!";
+REDDIT_SUBTITLE = "Keep track of my new posts";
+DISCORD_SUBTITLE = "Also available here!";
+
+MY_OTHER_TWEAKS = "My other tweaks";
+REFRESH = "Refresh";

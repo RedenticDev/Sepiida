@@ -1,0 +1,23 @@
+LIGHT_OR_DARK_MODE = "Light and Dark Modes (iOS 13+)";
+DEFAULT = "Default";
+LIGHT_MODE = "Light Mode";
+DARK_MODE = "Dark Mode";
+
+ITEMS_SECTION = "Items";
+DYNAMIC_COLOR = "Dynamic";
+CUSTOM_COLOR = "Custom";
+CUSTOM_ITEMS_COLOR = "Custom items color";
+ENABLE_CUSTOM_BLUR = "Enable custom blur";
+CUSTOM_BLUR_ALPHA = "Custom blur alpha";
+DEFAULT_ITEMS_ALPHA = "Default alpha for items is 1.0.";
+
+MENU_SECTION = "Menu";
+CUSTOM_MENU_COLOR = "Custom menu color";
+DEFAULT_MENU_ALPHA = "Default alpha for menu is 0.50.";
+
+BACKGROUND_SECTION = "Background";
+CUSTOM_BACKGROUND_COLOR = "Custom background color";
+DEFAULT_BACKGROUND_ALPHA = "Default alpha for background is 0.21.";
+
+LABELS_COLOR_SECTION = "Labels color";
+CUSTOM_LABELS_COLOR = "Custom labels color";
